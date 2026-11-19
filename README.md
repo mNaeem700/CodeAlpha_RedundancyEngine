@@ -154,6 +154,8 @@ Inside the **Ingestion Gateway** tab, use the 1-Click Instant Test Scenario butt
 - **Subtle Typo Duplicate**: Tests fuzzy matching on names like `"Alex Morgen"` vs. `"Alex Morgan"`.
 - **AI False Positive**: Ingests two medical records sharing identical doctor names and clinics, triggering Gemini AI to identify distinct patient IDs and blood types to prevent improper rejection.
 - **Unique Record**: Validates a unique record payload that passes all checks smoothly.
+Read more about my projects on https://neemii.dev/projects/
+
 
 ---
 
